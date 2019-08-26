@@ -1,0 +1,17 @@
+This is the two player version of the game Splendor!
+When you run the file, you are immediately in the game, player 1 starts. On each turn, you can do one of four things:
+Buy a mine
+Take 3 different colored gems(NOT INCLUDING GOLD)
+Take 2 of the same colored gems(NOT INCLUDING GOLD)
+Reserve a card for your exclusive future purpose AND take a gold gem
+
+Player 1's gem stash is on the left side of the screen, and player 2's gem stash is on the right side of the screen. Each color gem has an alternate of the color
+underneath it tracking your permanent bonuses from mines and nobles.
+
+To initiate the process of taking gems, click on a gem on the bottom of the screen. From there you may click on the same gem again two take two of the same gem,
+or click on two different gems to take 3 different gems.
+
+To initiate a purchase or reserve action, click on any of the magenta-outlined mine-cards on the screen. From there you can purchase that card, reserve that card, 
+or purchase a previously reserved card.
+
+Highest points at the end of a round(one turn per person) where someone achieves 15 points is the winner.
